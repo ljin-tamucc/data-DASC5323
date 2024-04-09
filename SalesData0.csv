@@ -1,0 +1,619 @@
+Date,Orderpriority,OrderQuantity,Sales,Shipmode,Profit,Price,Shippingcost,Segment,Category,company
+10/1/2012,High,49,10123.02,Delivery Truck,457.81,208.16,68.02,Consumer,Office Supplies,ABC
+10/1/2012,High,27,244.57,Regular Air,46.71,8.69,2.99,Consumer,Office Supplies,ABC
+7/10/2011,High,30,4965.7595,Regular Air,1198.97,195.99,3.99,Corporate,Technology,ABC
+8/28/2010,Not Specified,19,394.27,Regular Air,30.94,21.78,5.94,Consumer,Office Supplies,ABC
+6/17/2011,NA,12,93.54,Regular Air,-54.04,7.3,7.72,Corporate,Office Supplies,ABC
+3/24/2011,High,21,2781.82,Express Air,-695.26,138.14,35,Corporate,Office Supplies,ABC
+2/26/2010,Low,44,228.41,Regular Air,-226.36,4.98,8.33,Home Office,Office Supplies,ABC
+11/23/2010,Medium,45,196.85,Regular Air,-166.85,4.28,6.18,Home Office,Office Supplies,ABC
+11/23/2010,Medium,32,124.56,Regular Air,-14.33,3.95,2,Home Office,Office Supplies,ABC
+6/8/2012,Not Specified,NA,716.84,Regular Air,134.72,21.78,5.94,Home Office,Office Supplies,ABC
+6/8/2012,Not Specified,31,1474.33,Regular Air,114.46,47.98,3.61,Home Office,Technology,ABC
+8/4/2012,Not Specified,15,80.61,Regular Air,-4.72,5.28,2.99,Small Business,Office Supplies,ABC
+5/30/2011,Medium,46,1815.49,Regular Air,782.91,39.89,3.04,Home Office,Furniture,ABC
+11/25/2009,Not Specified,16,248.26,Regular Air,93.8,15.74,1.39,Small Business,Office Supplies,ABC
+2/14/2012,Critical,44,4462.23,Delivery Truck,440.72,100.98,26.22,Home Office,Furniture,ABC
+2/14/2012,Critical,11,663.784,Regular Air,-481.04,71.37,69,Home Office,Furniture,ABC
+4/15/2012,Low,15,834.904,Regular Air,-11.68,65.99,5.26,Corporate,Technology,ABC
+4/15/2012,Low,18,2480.9205,Regular Air,313.58,155.99,8.99,Corporate,Technology,ABC
+3/12/2010,Not Specified,13,59.03,Express Air,26.92,3.69,0.5,Consumer,Office Supplies,ABC
+3/12/2010,Not Specified,21,97.48,Regular Air,-5.77,4.71,0.7,Consumer,Office Supplies,ABC
+3/9/2011,Low,33,511.83,Regular Air,-172.88,15.99,13.18,Corporate,Office Supplies,ABC
+3/9/2011,Low,38,184.99,Regular Air,-144.55,4.89,4.93,Corporate,NA,ABC
+8/4/2012,High,30,80.9,Regular Air,5.76,2.88,0.7,Home Office,Office Supplies,ABC
+5/6/2011,High,23,67.24,Regular Air,4.9,2.84,0.93,Home Office,Office Supplies,ABC
+12/23/2010,High,25,12028.23,Delivery Truck,-547.61,449.99,49,Corporate,Technology,ABC
+11/8/2010,Low,28,370.48,Regular Air,-5.45,NA,4.51,Consumer,Office Supplies,ABC
+10/21/2012,Not Specified,49,278,Regular Air,41.67,6.08,1.17,Small Business,Office Supplies,ABC
+NA,Not Specified,10,66.54,Regular Air,-46.03,5.98,4.38,Home Office,Technology,ABC
+1/1/2011,Not Specified,21,845.32,Regular Air,33.67,40.99,19.99,Home Office,Office Supplies,ABC
+10/10/2011,High,39,282.07,Regular Air,140.01,7.31,0.49,Corporate,Office Supplies,ABC
+10/10/2011,High,24,426.037,Regular Air,-78.96,20.99,2.5,Corporate,Technology,ABC
+9/23/2010,Low,27,1078.49,Regular Air,252.66,40.96,1.99,Corporate,Technology,ABC
+7/19/2011,NA,39,3554.46,Delivery Truck,-1766.01,95.95,74.35,Corporate,Furniture,ABC
+10/9/2009,High,47,191.67,Regular Air,-236.27,3.89,7.01,Corporate,Office Supplies,ABC
+10/9/2009,High,49,5586.33,Delivery Truck,80.44,120.98,30,Corporate,Furniture,ABC
+10/9/2009,High,18,507.64,Regular Air,118.94,30.98,5.76,Corporate,Office Supplies,ABC
+12/9/2010,Not Specified,30,14223.82,Delivery Truck,3424.22,500.98,26,Consumer,Furniture,ABC
+10/8/2012,Critical,5,NA,Regular Air,-11.83,7.84,4.71,Small Business,Office Supplies,ABC
+3/8/2010,Medium,8,820.284,Regular Air,-180.2,115.99,2.5,Corporate,Technology,ABC
+5/28/2011,Not Specified,5,14.76,Regular Air,1.32,2.88,0.5,Corporate,Office Supplies,ABC
+9/19/2010,Medium,9,89.55,Regular Air,-375.64,4.48,49,Corporate,Office Supplies,ABC
+8/31/2011,High,11,1210.0515,Regular Air,-104.25,125.99,7.69,Home Office,Technology,ABC
+NA,High,50,187.83,Regular Air,85.96,3.75,0.5,Home Office,Office Supplies,ABC
+8/31/2011,High,3,49.59,Express Air,-8.38,12.28,6.47,Home Office,Office Supplies,ABC
+8/31/2011,High,30,4253.009,Regular Air,1115.69,155.99,8.99,Home Office,Technology,ABC
+7/8/2011,Not Specified,7,59.38,Regular Air,-3.05,8.69,2.99,Home Office,Office Supplies,ABC
+1/30/2009,Critical,42,1285.37,Regular Air,514.07,31.78,1.99,Corporate,Technology,ABC
+1/8/2012,Low,11,48.91,Regular Air,-7.04,3.98,2.97,Corporate,Office Supplies,ABC
+11/7/2010,Critical,22,129.62,Regular Air,4.41,5.88,3.04,Corporate,Office Supplies,ABC
+4/29/2010,Not Specified,12,118.97,Regular Air,-0.06,9.65,6.22,Corporate,Furniture,ABC
+12/31/2011,Not Specified,8,61.8715,Regular Air,-50.33,7.99,5.03,Home Office,Technology,ABC
+8/12/2009,High,7,384.33,Regular Air,87.68,58.1,1.49,Corporate,Office Supplies,ABC
+8/12/2009,High,3,239.03,Regular Air,-68.22,80.48,4.5,Corporate,Office Supplies,ABC
+11/12/2011,Low,44,3922.42,Regular Air,-354.9,92.23,39.61,Home Office,Furniture,ABC
+11/12/2011,Low,25,1733.3625,Regular Air,-267.01,85.99,0.99,Home Office,Technology,ABC
+1/20/2012,High,19,208.28,Regular Air,3.63,11.48,5.43,Home Office,Office Supplies,ABC
+3/20/2009,Medium,6,9620.82,Regular Air,NA,1637.53,24.49,Corporate,Office Supplies,ABC
+7/21/2012,Low,40,255.48,Regular Air,-116.79,6.48,6.65,Corporate,Office Supplies,ABC
+7/21/2012,Low,18,130.32,Express Air,-67.28,6.48,7.86,Corporate,Office Supplies,ABC
+6/12/2012,Critical,11,312.36,Express Air,-19.33,28.15,8.99,Corporate,Office Supplies,ABC
+1/15/2009,Low,41,217,Regular Air,-61.21,4.98,4.75,Home Office,Office Supplies,ABC
+1/15/2009,Low,47,296.13,Regular Air,119.09,6.35,1.02,Home Office,Office Supplies,ABC
+6/4/2010,Low,40,436.17,Express Air,-141.27,10.9,7.46,Consumer,Office Supplies,ABC
+2/18/2010,Not Specified,18,136.29,Regular Air,-77.28,7.3,7.72,Consumer,Office Supplies,ABC
+11/16/2011,Not Specified,32,1311.25,Express Air,407.44,39.48,1.99,Corporate,Technology,ABC
+11/16/2011,Not Specified,5,544.41,Delivery Truck,-338.27,100.98,57.38,Corporate,Furniture,ABC
+11/16/2011,Not Specified,41,844.09,Regular Air,52.56,19.98,10.49,Corporate,Furniture,ABC
+8/7/2011,Low,22,6396.2,Regular Air,1902.24,276.2,24.49,Corporate,Furniture,ABC
+6/8/2010,Medium,50,751.77,Regular Air,353.2,15.67,1.39,Corporate,Office Supplies,ABC
+10/17/2009,Medium,37,1003.06,Regular Air,271.78,25.98,5.37,Consumer,Office Supplies,ABC
+9/29/2011,Critical,19,368.04,Express Air,70.39,19.98,5.97,Small Business,Office Supplies,ABC
+5/4/2012,Low,40,3338.98,Regular Air,-846.73,80.98,35,Small Business,Office Supplies,ABC
+5/17/2011,High,5,24.16,Express Air,8.05,1.88,1.49,Consumer,Office Supplies,ABC
+5/17/2011,High,41,270.84,Express Air,NA,6.48,5.86,Consumer,Office Supplies,ABC
+5/17/2011,High,35,3389.93,Express Air,737.94,102.3,21.26,Consumer,Furniture,ABC
+5/17/2011,High,42,266.36,Regular Air,-191.28,6.48,8.19,Consumer,Office Supplies,ABC
+5/17/2011,High,NA,89.41,Regular Air,-21.49,1.89,0.76,Consumer,Office Supplies,ABC
+11/17/2009,Medium,47,2799.7,Regular Air,884.08,62.05,3.99,Corporate,Office Supplies,ABC
+10/10/2011,Not Specified,7,2039.56,Express Air,-329.49,279.48,35,Corporate,Office Supplies,ABC
+10/7/2012,Not Specified,36,12175.82,Delivery Truck,2825.15,320.98,58.95,Home Office,Furniture,ABC
+10/7/2012,Not Specified,5,101.21,Express Air,2.13,18.97,5.21,Home Office,Office Supplies,ABC
+10/7/2012,Not Specified,32,1585.64,Regular Air,707.15,48.91,5.81,Home Office,Office Supplies,ABC
+8/13/2011,Medium,44,176.26,Regular Air,75.13,4.13,0.5,Corporate,Office Supplies,ABC
+8/16/2011,High,32,4655.07,Delivery Truck,-270.63,140.98,53.48,Corporate,Furniture,ABC
+8/16/2011,High,44,10087.6,Regular Air,3387.35,218.08,18.06,Corporate,Furniture,ABC
+8/16/2011,High,34,1608.08,Express Air,-82.16,50.98,6.5,Corporate,Technology,ABC
+3/4/2009,Low,1,12.18,Regular Air,-3.88,10.14,2.27,Small Business,Office Supplies,ABC
+8/18/2009,Critical,50,820.52,Regular Air,-191.22,15.99,13.18,Corporate,Office Supplies,ABC
+11/16/2010,Not Specified,29,6250.936,Delivery Truck,31.21,262.11,62.74,Corporate,Furniture,ABC
+5/27/2011,Low,25,854.88,Regular Air,-44.14,33.98,19.99,Corporate,Furniture,ABC
+5/27/2011,Low,46,80.27,Regular Air,-0.79,1.76,0.7,Corporate,Office Supplies,ABC
+8/23/2010,Not Specified,15,308.54,Express Air,76.42,19.84,4.1,Corporate,Office Supplies,ABC
+8/19/2011,Not Specified,20,400.57,Regular Air,93.36,19.98,5.77,Small Business,Office Supplies,ABC
+1/3/2012,Medium,14,1170.025,Regular Air,4.22,95.99,8.99,Consumer,Technology,ABC
+11/29/2012,High,48,5188.86,Regular Air,395.12,111.03,8.64,Small Business,Office Supplies,ABC
+3/17/2012,Medium,8,339.81,Regular Air,79.59,43.41,2.99,Corporate,Office Supplies,ABC
+4/12/2010,Low,15,1519.9,Regular Air,399.37,105.34,24.49,Corporate,Furniture,ABC
+8/24/2010,High,30,102.24,Regular Air,37.79,3.69,0.5,Home Office,Office Supplies,ABC
+7/4/2011,High,6,965.69,Delivery Truck,-144.2,146.34,43.75,Corporate,Furniture,ABC
+11/10/2010,Critical,25,397.84,Regular Air,-14.75,15.22,9.73,Consumer,Office Supplies,ABC
+6/24/2010,Critical,4,73.07,Regular Air,-41.01,15.7,11.25,Corporate,Office Supplies,ABC
+6/24/2010,Critical,26,4679.1,Delivery Truck,111.52,179.29,29.21,Corporate,Furniture,ABC
+9/19/2012,Medium,46,8009.5925,Regular Air,2332.4,200.99,8.08,Home Office,Technology,ABC
+9/19/2012,Medium,23,4689.66,Regular Air,2176.19,194.3,11.54,Home Office,Furniture,ABC
+12/24/2011,Low,25,3019.41,Regular Air,1269.05,120.97,7.11,NA,Technology,ABC
+3/23/2012,Medium,5,36.86,Regular Air,-32.82,5.81,8.49,Corporate,Office Supplies,ABC
+10/15/2011,Critical,12,22079.47,Regular Air,5322.14,1938.02,13.99,Corporate,Technology,ABC
+8/7/2010,Critical,24,5407.31,Delivery Truck,1068.48,226.67,28.16,Home Office,Furniture,ABC
+3/3/2009,Low,NA,74.3,Regular Air,-129.01,2.08,5.33,Corporate,Furniture,ABC
+2/9/2010,NA,44,21506.77,Regular Air,1260.51,499.99,24.49,Small Business,Technology,ABC
+2/9/2010,Low,28,669.02,Delivery Truck,-1274.02,20.98,53.03,Small Business,Office Supplies,ABC
+1/17/2009,Critical,40,1143.49,Regular Air,-193.44,30.53,19.99,Small Business,Office Supplies,ABC
+1/17/2009,Critical,46,78.08,Regular Air,-43.1,1.68,1.57,Small Business,Office Supplies,ABC
+8/30/2010,Critical,19,5297.47,Delivery Truck,-158.93,270.98,50,Corporate,Furniture,ABC
+8/30/2010,Critical,20,95.3,Regular Air,29.68,4.48,1.22,Corporate,Office Supplies,ABC
+9/11/2009,High,40,460.68,Regular Air,-116.76,10.9,7.46,Small Business,Office Supplies,ABC
+9/11/2009,High,49,318.7585,Regular Air,-160.95,7.99,5.03,Small Business,Technology,ABC
+7/16/2009,Not Specified,47,1020.61,Regular Air,-209.61,21.66,13.99,Home Office,Office Supplies,ABC
+11/15/2012,Low,44,268.34,Regular Air,-240.83,6.48,8.88,Corporate,Office Supplies,ABC
+9/10/2011,Low,6,209,Regular Air,12.32,35.44,7.5,Small Business,Office Supplies,ABC
+4/10/2011,Not Specified,30,501.32,Regular Air,-119.08,15.99,13.18,Small Business,Office Supplies,ABC
+4/10/2011,Not Specified,0,275.16,Express Air,NA,11.34,5.01,Small Business,Office Supplies,ABC
+4/10/2011,Not Specified,37,1302.99,Regular Air,545.49,35.44,5.09,Small Business,Office Supplies,ABC
+10/9/2011,NA,1,40.1,Regular Air,-16.07,30.98,11.63,Small Business,Office Supplies,ABC
+10/9/2011,High,42,1414.05,Regular Air,161.48,34.54,14.72,Small Business,Office Supplies,ABC
+10/23/2012,Critical,34,5350.61,NA,-1059.2,170.98,60.49,Corporate,Furniture,ABC
+1/8/2012,Low,15,310.87,Regular Air,-21.48,20.95,4,Consumer,Technology,ABC
+1/25/2010,Not Specified,27,1584.1,Delivery Truck,-478.22,58.14,36.61,Home Office,Furniture,ABC
+1/27/2011,Not Specified,42,283.58,Regular Air,-14.23,6.64,4.95,Home Office,Furniture,ABC
+1/27/2011,Not Specified,39,5403.37,Delivery Truck,948.79,145.45,17.85,Home Office,Technology,ABC
+1/27/2011,Not Specified,35,82.15,Regular Air,-6.33,2.21,1.12,Home Office,Office Supplies,ABC
+8/27/2009,High,50,2066.16,Regular Air,372.36,40.99,17.48,Small Business,Office Supplies,ABC
+3/17/2011,Critical,18,4605.36,Delivery Truck,678.26,243.98,43.32,Corporate,Furniture,ABC
+3/17/2011,Critical,42,1753.51,Regular Air,155.72,39.98,9.2,Corporate,Furniture,ABC
+6/6/2012,Critical,31,426.34,Regular Air,73.53,12.58,5.16,Small Business,Furniture,ABC
+4/11/2011,High,36,1837.44,Delivery Truck,-1414.41,48.58,54.11,Home Office,Furniture,ABC
+4/11/2011,High,4,NA,Regular Air,-5.41,7.04,2.17,Home Office,Office Supplies,ABC
+11/6/2012,Low,32,311.44,Regular Air,74.07,9.78,1.99,Corporate,Technology,ABC
+5/16/2012,High,3,NA,NA,-118.82,43.98,1.99,Home Office,Technology,ABC
+4/9/2012,Not Specified,8,300.2,Regular Air,6.41,34.76,8.22,Corporate,Office Supplies,ABC
+4/9/2012,Not Specified,29,1364.8025,Regular Air,-183.68,55.99,5,Corporate,Technology,ABC
+8/5/2012,Medium,0,128.21,Regular Air,-55.13,6.48,6.57,Corporate,Office Supplies,ABC
+5/9/2010,Not Specified,10,50.97,Regular Air,4.45,5.16,0.73,Small Business,Office Supplies,ABC
+5/9/2010,Not Specified,1,4.99,Regular Air,-3.06,3.68,1.32,Small Business,Office Supplies,ABC
+2/18/2009,Not Specified,-10,10554.63,Delivery Truck,1240.25,355.98,58.92,Corporate,Furniture,ABC
+2/18/2009,Not Specified,8,1749.64,Delivery Truck,-533.23,218.75,69.64,Corporate,Furniture,ABC
+6/27/2012,High,47,1943.72,Regular Air,-1003.58,41.47,34.2,Corporate,Furniture,ABC
+6/27/2012,High,6,18.37,Regular Air,-4.06,2.78,1.2,Corporate,Office Supplies,ABC
+6/27/2012,High,49,6175.777,Express Air,1881.58,155.99,3.9,Corporate,Technology,ABC
+NA,Medium,6,157.97,Regular Air,-42.38,22.84,16.87,Small Business,Office Supplies,ABC
+4/15/2010,Critical,25,144.84,Regular Air,-120.99,5.78,8.09,Consumer,Office Supplies,ABC
+9/14/2011,Not Specified,4,5472.12,Delivery Truck,-2816.34,1360.14,14.7,Home Office,Technology,ABC
+9/21/2010,High,7,1810.67,Delivery Truck,-541.87,270.98,50,Small Business,Furniture,ABC
+8/17/2010,Not Specified,31,633.56,Regular Air,-158.87,20.97,6.5,Small Business,Technology,ABC
+9/16/2009,Low,27,644.4,Regular Air,-97.28,22.84,16.87,Home Office,Office Supplies,ABC
+8/28/2012,Not Specified,27,3316.08,Delivery Truck,-514.32,130.98,30,Consumer,Furniture,ABC
+6/7/2011,Critical,48,207.08,NA,-131.82,4.28,5.17,Corporate,Office Supplies,ABC
+6/7/2011,Critical,8,234.28,Regular Air,-65.42,28.28,13.99,Corporate,Office Supplies,ABC
+6/7/2011,Critical,41,1779.8915,Regular Air,-250.17,55.99,5,Corporate,Technology,ABC
+10/9/2009,Not Specified,0,114.12,Regular Air,15.73,3.8,1.49,Corporate,Office Supplies,ABC
+10/9/2009,Not Specified,15,436.05,Regular Air,-92.58,30.73,4,Corporate,Technology,ABC
+10/9/2009,Not Specified,49,NA,Regular Air,1465.87,125.99,8.08,Corporate,Technology,ABC
+12/5/2010,Not Specified,9,173.417,Regular Air,18.23,20.99,0.99,Corporate,Technology,ABC
+6/7/2009,Low,18,23792.93,Regular Air,10951.31,1270.99,19.99,Small Business,Office Supplies,ABC
+7/27/2009,Critical,21,256.12,Regular Air,-18.19,11.97,4.98,Corporate,Office Supplies,ABC
+9/5/2011,Low,30,387,Express Air,-31.45,12.28,6.13,Home Office,Office Supplies,ABC
+1/11/2009,High,31,1143.45,Regular Air,304.42,39.24,1.99,Corporate,Technology,ABC
+8/15/2010,Medium,2,42.31,Regular Air,-53.08,17.98,8.51,Corporate,Technology,ABC
+8/5/2009,Not Specified,49,82.61,Regular Air,-46.25,1.68,1.57,Small Business,Office Supplies,ABC
+9/17/2011,Medium,31,789.94,NA,-190.41,25.98,14.36,Home Office,Furniture,ABC
+10/22/2011,Low,42,435.24,Express Air,174.89,10.31,1.79,Small Business,Office Supplies,ABC
+11/14/2009,Medium,8,473.7,Regular Air,72.51,59.78,10.29,Small Business,Office Supplies,ABC
+11/14/2009,Medium,33,553.5625,Regular Air,-76.86,20.99,1.25,Small Business,Technology,ABC
+7/3/2010,Medium,32,54.78,Regular Air,-30.54,1.68,1.57,Corporate,Office Supplies,ABC
+7/3/2010,Medium,47,304.83,Regular Air,23.82,7.08,2.35,Corporate,Office Supplies,ABC
+1/30/2009,Low,0,16066.85,Regular Air,7416.43,574.74,24.49,Consumer,Technology,ABC
+3/15/2012,Not Specified,17,618.9,Regular Air,54.92,NA,13.89,Home Office,Office Supplies,ABC
+8/10/2009,Low,35,1665.0395,Regular Air,366.51,55.99,3.3,Home Office,Technology,ABC
+4/1/2010,Low,21,1049.79,Regular Air,135.79,51.75,19.99,Consumer,Furniture,ABC
+4/1/2010,Low,16,817.18,Regular Air,103.38,55.29,5.08,Consumer,Office Supplies,ABC
+7/31/2010,High,49,465.83,Regular Air,-79.72,9.65,6.22,Corporate,Furniture,ABC
+5/29/2009,Low,13,241.706,Regular Air,-92.96,20.99,3.3,Small Business,Technology,ABC
+5/18/2010,High,2,30.83,Express Air,7.27,7.64,1.39,Corporate,Office Supplies,ABC
+2/8/2011,Critical,13,121.66,Regular Air,-11.8,8.85,5.6,Consumer,Office Supplies,ABC
+12/7/2010,Critical,16,108.42,Regular Air,-50.82,6.48,6.81,Corporate,Office Supplies,ABC
+12/7/2010,Critical,27,78.47,Regular Air,17.99,2.88,0.99,Corporate,Office Supplies,ABC
+1/6/2009,Critical,90,26133.39,Delivery Truck,-11053.6,880.98,44.55,Home Office,Furniture,ABC
+3/12/2012,Critical,14,2671.21,Delivery Truck,636.18,200.97,15.59,Corporate,Technology,ABC
+8/26/2010,Low,26,NA,Regular Air,135.65,20.89,1.99,Home Office,Technology,ABC
+8/26/2010,Low,28,317.85,Regular Air,-13.95,11.58,6.97,Home Office,Office Supplies,ABC
+8/26/2010,Low,42,163.08,Regular Air,66.17,4.13,0.5,Home Office,Office Supplies,ABC
+6/20/2011,High,38,103.07,Regular Air,-0.95,2.78,1.34,Corporate,Office Supplies,ABC
+8/4/2010,High,1,17.19,Regular Air,-35.34,14.48,1.99,Small Business,Technology,ABC
+8/4/2010,High,27,2689.48,Regular Air,399.93,99.99,19.99,Small Business,Technology,ABC
+8/4/2010,High,2,NA,Regular Air,-8.15,4.98,4.86,Small Business,Office Supplies,ABC
+11/23/2010,High,-6,270.63,Regular Air,7.07,21.98,8.32,Corporate,Office Supplies,ABC
+8/2/2009,Not Specified,24,4865.72,Delivery Truck,1951.3,200.97,15.59,Home Office,Technology,ABC
+8/10/2011,Critical,23,1003.31,Regular Air,51.9,40.97,14.45,Small Business,Furniture,ABC
+8/10/2011,Critical,17,6048.18,Delivery Truck,1418.36,349.45,60,Small Business,Furniture,ABC
+5/6/2010,Critical,41,3051.27,Delivery Truck,121.48,80.97,33.6,Home Office,Technology,ABC
+6/28/2012,Low,47,9633.59,Delivery Truck,176.67,216.6,64.2,Corporate,Furniture,ABC
+3/23/2011,Medium,6,143.78,Regular Air,75.3,22.72,8.99,Corporate,Furniture,ABC
+11/19/2011,Critical,22,440.92,Express Air,-65.18,19.98,10.49,Small Business,Furniture,ABC
+11/26/2012,Low,3,4343.51,Delivery Truck,-3755.03,1500.97,29.7,Corporate,Technology,ABC
+7/29/2010,Not Specified,26,626.07,Express Air,185.32,23.99,6.71,Corporate,Office Supplies,ABC
+3/3/2012,High,7,NA,Regular Air,-59.2,39.48,1.99,Corporate,Technology,ABC
+3/3/2012,High,15,593.73,Regular Air,108.01,38.76,13.26,Corporate,Office Supplies,ABC
+8/20/2010,High,49,NA,Regular Air,19.86,2.47,1.02,Corporate,Office Supplies,ABC
+6/27/2010,Not Specified,22,NA,Delivery Truck,-127.39,33.94,19.19,Home Office,Furniture,ABC
+6/27/2010,Not Specified,31,251.75,Regular Air,22.46,8.33,1.99,Home Office,Technology,ABC
+10/29/2012,Critical,36,697.41,Regular Air,NA,18.97,9.03,Small Business,Office Supplies,ABC
+1/16/2010,Not Specified,NA,4684.9,Delivery Truck,-549.27,NA,66.27,Corporate,Furniture,ABC
+6/29/2012,Low,6,905.94,Express Air,-4.19,140.81,24.49,Home Office,Furniture,ABC
+8/8/2011,Not Specified,12,270.23,Regular Air,52.02,22.84,5.47,Home Office,Office Supplies,ABC
+8/8/2011,Not Specified,20,660.27,Express Air,63.83,34.76,5.49,Home Office,Office Supplies,ABC
+2/21/2010,Medium,11,32.4,Regular Air,8.78,2.88,0.5,Corporate,Office Supplies,ABC
+6/20/2011,Medium,26,4688.9485,Regular Air,1215.44,205.99,5.26,Corporate,Technology,ABC
+9/4/2009,Critical,8,50.7,Regular Air,-44.07,5.4,7.78,Corporate,Office Supplies,ABC
+9/4/2009,Critical,10,90.06,Express Air,-100.51,8.46,8.99,Corporate,Technology,ABC
+9/4/2009,Critical,NA,338.52,Regular Air,-17.75,14.98,8.99,Corporate,Furniture,ABC
+9/4/2009,Critical,48,6109.817,Regular Air,1374.95,NA,8.08,Corporate,Technology,ABC
+6/21/2009,Not Specified,NA,34.11,Regular Air,-12.95,25.38,8.99,Home Office,Furniture,ABC
+2/8/2012,Critical,48,538.22,Regular Air,-154.66,10.97,6.5,Consumer,Technology,ABC
+3/11/2009,High,11,1064.23,Regular Air,-127.56,99.99,19.99,NA,Technology,ABC
+3/11/2009,High,18,3497.05,Regular Air,282.18,193.17,19.99,Home Office,Office Supplies,ABC
+3/11/2009,High,44,774.0525,Express Air,-96.34,20.99,3.3,Home Office,Technology,ABC
+6/4/2011,Low,3,74.05,Regular Air,44.54,19.99,11.17,Small Business,Furniture,ABC
+3/2/2012,Low,37,5753.85,Regular Air,2509.52,150.98,13.99,Corporate,Technology,ABC
+8/12/2011,Medium,48,18235.47,Delivery Truck,1166.93,370.98,99,Corporate,Office Supplies,ABC
+8/12/2011,Medium,16,2631.107,Regular Air,297.11,179.99,13.99,Corporate,Technology,ABC
+9/1/2009,Critical,32,209.42,Regular Air,65.41,6.74,1.72,Consumer,Office Supplies,ABC
+NA,Critical,32,324.4,Regular Air,-46.98,10.89,4.5,Small Business,Office Supplies,ABC
+1/26/2010,Critical,-6,137.02,Regular Air,-46.89,6.48,6.6,Small Business,Office Supplies,ABC
+9/2/2011,Critical,1,232.67,Regular Air,-105.14,223.98,15.01,Corporate,Office Supplies,ABC
+9/2/2011,Critical,34,4805.92,Delivery Truck,-393.96,140.98,36.09,Corporate,Furniture,ABC
+2/7/2012,Critical,70,62.26,Regular Air,-23.24,54.96,10.75,Corporate,Office Supplies,ABC
+2/7/2012,Critical,47,58.53,Regular Air,-24.86,1.26,0.7,Corporate,Office Supplies,ABC
+3/19/2011,Critical,31,157.79,Regular Air,-95.92,4.98,6.07,NA,Office Supplies,ABC
+5/8/2011,Not Specified,19,376.21,Regular Air,89.56,18.99,5.23,Home Office,Office Supplies,ABC
+9/25/2009,Critical,37,1601.24,Regular Air,520.69,46.89,5.1,Corporate,Office Supplies,ABC
+9/25/2009,Critical,40,501.31,Regular Air,38.23,12.98,3.14,Corporate,Office Supplies,ABC
+7/9/2012,Not Specified,2,24.96,Regular Air,-12.8,10.91,2.99,NA,Office Supplies,ABC
+1/14/2010,High,31,166.76,Regular Air,-46.03,4.98,4.75,Corporate,NA,ABC
+10/8/2009,Critical,15,822.8425,Regular Air,4.39,65.99,5.92,Consumer,Technology,ABC
+11/10/2011,High,35,3310.9455,Regular Air,822.4,115.99,2.5,Corporate,Technology,ABC
+4/15/2012,High,10,55.02,Regular Air,-56.12,5.02,5.14,Small Business,Technology,ABC
+3/8/2011,Not Specified,40,291.67,Regular Air,54.46,6.75,2.99,Small Business,Office Supplies,ABC
+7/2/2009,High,50,281.39,Regular Air,-106.4,5.74,5.01,Consumer,Office Supplies,ABC
+7/2/2009,High,49,12593.91,Delivery Truck,2699.67,270.97,28.06,Consumer,Technology,ABC
+4/15/2011,Critical,22,6123.94,Delivery Truck,1292.44,260.98,41.91,Home Office,Furniture,ABC
+11/25/2011,High,49,19325.2,Regular Air,8793.54,387.99,19.99,Small Business,Office Supplies,ABC
+11/25/2011,High,48,NA,Delivery Truck,813.83,NA,35.02,Small Business,Furniture,ABC
+4/25/2012,Critical,11,35.17,Regular Air,5.58,3.08,0.99,Small Business,Office Supplies,ABC
+3/26/2011,Medium,35,17387.65,Regular Air,6907.61,499.99,24.49,Corporate,Technology,ABC
+3/26/2011,Medium,44,6040.22,Regular Air,-942.5,138.14,35,Corporate,Office Supplies,ABC
+7/14/2010,Low,45,345.2,Regular Air,183.53,7.31,0.49,Corporate,Office Supplies,ABC
+10/23/2010,Not Specified,36,1955.0765,Regular Air,470.83,65.99,3.9,Small Business,Technology,ABC
+8/24/2009,Not Specified,27,217.93,Regular Air,-29.02,7.64,5.83,Corporate,Office Supplies,ABC
+6/9/2011,Low,6,254.76,Regular Air,109.88,40.97,14.45,Home Office,Furniture,ABC
+11/23/2012,Medium,21,6806.66,Delivery Truck,801.72,299.05,87.01,Corporate,Furniture,ABC
+11/23/2012,Medium,5,165.04,Regular Air,-112.44,30.42,8.65,Corporate,Technology,ABC
+5/1/2009,Not Specified,2,789.01,Regular Air,-539.59,415.88,11.37,Corporate,Office Supplies,ABC
+5/11/2012,Critical,4,97.57,Regular Air,-27.31,19.94,14.87,Corporate,Furniture,ABC
+5/11/2012,Critical,31,110.32,Regular Air,-32.65,3.68,1.32,Corporate,Office Supplies,ABC
+10/15/2010,Critical,26,321.68,Regular Air,-12.25,11.97,4.98,Small Business,Office Supplies,ABC
+10/15/2010,Critical,34,971.95,Express Air,-21.1,29.74,6.64,Small Business,Office Supplies,ABC
+10/15/2010,Critical,23,2149.03,Regular Air,-235.56,95.43,19.99,Small Business,Office Supplies,ABC
+7/23/2011,Low,12,3671.3,Regular Air,900.06,300.65,24.49,Home Office,Office Supplies,ABC
+7/23/2011,Low,42,1763.6,Regular Air,455.37,45.19,1.99,Home Office,Technology,ABC
+7/11/2011,Critical,14,403.17,Regular Air,147.45,28.53,1.49,Corporate,Office Supplies,ABC
+9/16/2012,Critical,15,89.97,Regular Air,23.48,5.68,1.46,Corporate,Office Supplies,ABC
+9/16/2012,Critical,28,456.91,Express Air,-328.18,15.51,17.78,Corporate,Office Supplies,ABC
+1/16/2009,Medium,46,249.02,Regular Air,-282.61,5.81,8.49,Corporate,Office Supplies,ABC
+1/16/2009,Medium,41,78.49,Regular Air,5.53,1.81,0.75,Corporate,Office Supplies,ABC
+10/20/2010,Low,4,40.72,Express Air,-10.25,6.68,6.93,Small Business,Office Supplies,ABC
+10/20/2010,Low,27,113.3,Regular Air,37.33,3.93,0.99,Small Business,Office Supplies,ABC
+8/30/2010,High,87,1219.19,Regular Air,44.37,150.98,13.99,Corporate,Technology,ABC
+8/30/2010,High,15,28.68,Regular Air,-0.12,1.76,0.7,Corporate,Office Supplies,ABC
+5/7/2010,Critical,19,3548.67,Regular Air,1280.19,177.98,0.99,Corporate,Office Supplies,ABC
+6/21/2011,Critical,8,178.78,Regular Air,-28.34,20.24,8.99,Home Office,Furniture,ABC
+11/24/2010,Medium,41,6045.98,Delivery Truck,-996.67,150.98,66.27,Corporate,Furniture,ABC
+4/27/2012,Medium,3,56.695,Regular Air,-70.97,20.99,0.99,Corporate,Technology,ABC
+8/28/2012,Low,24,1350.531,Regular Air,221.18,65.99,5.26,Corporate,Technology,ABC
+7/31/2011,High,20,100.4,Regular Air,11.94,5.18,2.04,Corporate,Office Supplies,ABC
+7/31/2011,High,19,327.15,Regular Air,47.3,17.24,3.26,Corporate,Office Supplies,ABC
+10/6/2012,Medium,11,30.51,Regular Air,-17.68,2.6,2.4,Corporate,Office Supplies,ABC
+2/6/2010,Not Specified,4,242.36,Regular Air,-131.48,60.98,1.99,Corporate,Technology,ABC
+2/6/2010,Not Specified,25,802.19,Regular Air,56.26,29.74,6.64,Corporate,Office Supplies,ABC
+2/6/2010,Not Specified,4,63.52,Express Air,-8.47,12.21,4.81,Corporate,Office Supplies,ABC
+10/17/2011,Not Specified,13,371.94,Regular Air,106.53,29.14,4.86,Corporate,Office Supplies,ABC
+8/20/2009,Not Specified,31,349.43,Regular Air,-44.92,11.5,7.19,Home Office,NA,ABC
+8/20/2009,Not Specified,3,58.33,Regular Air,-35.08,15.7,11.25,Home Office,Office Supplies,ABC
+8/20/2009,Not Specified,47,10377.22,Delivery Truck,965.48,225.02,28.66,Home Office,Office Supplies,ABC
+6/14/2010,Critical,14,140.66,Regular Air,11.34,9.27,4.39,Corporate,Office Supplies,ABC
+6/14/2010,Critical,5,42.89,Regular Air,-32.48,6.84,8.37,Corporate,Office Supplies,ABC
+NA,Critical,48,226.5,Regular Air,-173.15,4.98,4.62,Corporate,Technology,ABC
+6/14/2010,Critical,13,438.93,NA,-119.02,32.98,5.5,Corporate,Technology,ABC
+2/27/2010,Not Specified,31,15251.5,Delivery Truck,5353.19,500.97,69.3,Home Office,Technology,ABC
+8/15/2009,NA,13,34.42,Regular Air,9.47,2.61,0.5,Corporate,Office Supplies,ABC
+8/15/2009,High,26,172.76,Regular Air,73.18,7.31,0.49,Corporate,Office Supplies,ABC
+8/15/2009,High,50,853.162,Regular Air,-83.95,NA,2.5,Corporate,Technology,ABC
+5/14/2011,High,6,35.65,Regular Air,-5.92,5.34,2.99,Home Office,Office Supplies,ABC
+10/7/2010,NA,49,199.86,Regular Air,-257.11,4.06,6.89,Home Office,Office Supplies,ABC
+10/7/2010,Critical,18,1888.02,NA,192.33,99.99,19.99,Home Office,Technology,ABC
+10/7/2010,Critical,27,322.69,Regular Air,1.91,11.58,6.97,Home Office,Office Supplies,ABC
+10/23/2009,Not Specified,19,12616.2,Regular Air,2808.22,699.99,24.49,Corporate,Technology,ABC
+6/9/2010,Medium,31,148.17,Regular Air,-7.06,4.71,0.7,Home Office,Office Supplies,ABC
+1/10/2011,Not Specified,39,217.25,Regular Air,33.5,5.84,1.2,Corporate,Office Supplies,ABC
+1/30/2009,Critical,23,361.65,Express Air,-144.27,15.98,8.99,Corporate,Technology,ABC
+3/28/2011,Low,45,1038.82,Regular Air,-78.36,NA,15.1,Home Office,Office Supplies,ABC
+11/22/2010,Low,6,826.9735,Regular Air,-413.33,155.99,8.99,Corporate,Technology,ABC
+5/30/2011,Not Specified,33,999.226,Regular Air,381.17,35.99,3.3,Consumer,Technology,ABC
+5/13/2012,High,24,2298.32,Regular Air,218.72,99.99,19.99,Corporate,Technology,ABC
+6/8/2010,Medium,24,1168.15,Express Air,-743.96,48.91,35,Small Business,Office Supplies,ABC
+11/29/2009,Medium,47,181.78,Regular Air,71.56,3.78,0.71,Home Office,Office Supplies,ABC
+9/1/2012,High,99,1184.32,Regular Air,-99.55,26.31,5.89,Small Business,Technology,ABC
+2/26/2010,Medium,3,71.94,Regular Air,-70.68,20.95,5.99,Small Business,Technology,ABC
+2/26/2010,Medium,10,NA,Express Air,98.32,55.98,13.88,Small Business,Office Supplies,ABC
+2/26/2010,Medium,18,1373.11,Regular Air,-599.54,80.98,35,Small Business,Office Supplies,ABC
+5/21/2012,Medium,32,368.18,Regular Air,-36.78,12.21,4.81,Corporate,Office Supplies,ABC
+11/8/2009,Not Specified,16,224.47,Regular Air,-49.31,13.9,7.59,Corporate,Office Supplies,ABC
+8/27/2010,Medium,1,104.85,Regular Air,-98.31,55.5,52.2,Corporate,Furniture,ABC
+8/17/2012,High,47,256,Regular Air,-119.84,5.28,5.66,Consumer,Office Supplies,ABC
+8/17/2012,High,20,6067.76,Delivery Truck,-98.05,296.18,54.12,Consumer,Furniture,ABC
+11/9/2012,High,29,2754.93,Regular Air,-1.33,92.23,39.61,Corporate,Furniture,ABC
+11/9/2012,High,15,19417.55,Regular Air,8417.57,1270.99,19.99,Corporate,Office Supplies,ABC
+6/2/2011,Critical,40,4842.21,Delivery Truck,-1975.26,122.99,70.2,Home Office,Furniture,ABC
+8/10/2011,High,31,615.58,Regular Air,168,18.99,5.23,Corporate,Office Supplies,ABC
+8/10/2011,High,101,126.02,Regular Air,66.97,20.24,6.67,Corporate,Furniture,ABC
+8/10/2011,High,30,68.14,Regular Air,6.37,2.18,NA,Corporate,Office Supplies,ABC
+2/27/2009,NA,14,71.47,Regular Air,-62.73,4.98,4.62,Corporate,Technology,ABC
+6/7/2010,Not Specified,10,568.3355,Regular Air,-147.36,65.99,8.99,Home Office,Technology,ABC
+2/17/2012,Low,38,2157.3085,Regular Air,519.25,65.99,5.31,Corporate,Technology,ABC
+2/23/2012,Low,16,347.47,Regular Air,-86.2,22.38,15.1,Corporate,Office Supplies,ABC
+10/15/2009,Critical,23,1404.22,Regular Air,202.87,63.94,14.48,Consumer,Furniture,ABC
+3/13/2009,Critical,3,17.52,Regular Air,-12.16,4.13,5.04,Home Office,Office Supplies,ABC
+3/12/2010,Medium,36,4273.8,Delivery Truck,-1775.83,122.99,70.2,Consumer,Furniture,ABC
+7/7/2009,Low,25,192.18,Regular Air,-48.88,7.1,6.05,Home Office,Office Supplies,ABC
+11/21/2012,Low,22,483.96,Regular Air,-34.09,21.38,8.99,Home Office,Office Supplies,ABC
+11/21/2012,Low,NA,308.363,Regular Air,42.27,35.99,0.99,Home Office,Technology,ABC
+3/2/2009,Medium,29,862.2,Regular Air,-45.1,30.73,4,Corporate,Technology,ABC
+9/22/2011,High,7,120.03,Regular Air,-56.06,15.7,11.25,Home Office,Office Supplies,ABC
+7/21/2011,Not Specified,1,18.92,Regular Air,-18.25,11.5,7.19,Corporate,Office Supplies,ABC
+7/13/2009,Not Specified,45,237.28,Express Air,-2088.68,4.48,49,Small Business,Office Supplies,ABC
+3/29/2010,High,31,8901.78,Regular Air,2795.36,276.2,24.49,Corporate,Furniture,ABC
+2/6/2010,Low,15,1062.959,Express Air,298.48,85.99,2.5,Consumer,Technology,ABC
+9/12/2012,Low,35,7468.86,Delivery Truck,2155.41,200.98,23.76,Small Business,Furniture,ABC
+5/30/2009,Critical,4,3510.82,Regular Air,232.44,896.99,19.99,Home Office,Office Supplies,ABC
+12/21/2012,Critical,19,281.84,Regular Air,-21.85,15.01,8.4,Corporate,Office Supplies,ABC
+12/21/2012,Critical,25,509.52,Regular Air,-145.78,20.97,6.5,Corporate,Technology,ABC
+12/21/2012,Critical,10,97.02,Regular Air,-3.96,10.01,1.99,Corporate,Technology,ABC
+2/14/2012,Not Specified,32,225.16,Regular Air,-33.69,6.68,5.2,Home Office,Office Supplies,ABC
+7/3/2010,Not Specified,20,205.33,Regular Air,10.68,9.77,6.02,Corporate,Furniture,ABC
+5/16/2011,Critical,17,1368.14,Express Air,171.26,76.72,19.95,Home Office,Office Supplies,ABC
+3/7/2010,Medium,42,2475.83,Regular Air,752.37,59.98,3.99,Corporate,Office Supplies,ABC
+4/27/2009,Not Specified,40,2205.7585,Regular Air,337.04,65.99,8.99,Home Office,Technology,ABC
+4/7/2012,High,21,524.2,Regular Air,158.98,23.99,6.71,Corporate,Office Supplies,ABC
+12/31/2010,Medium,39,NA,Regular Air,2969.81,162.93,19.99,Small Business,Office Supplies,ABC
+2/2/2010,Not Specified,45,NA,Regular Air,240.41,10.94,1.39,Small Business,Office Supplies,ABC
+2/2/2010,Not Specified,21,917.39,Express Air,393.41,NA,2.99,Small Business,Office Supplies,ABC
+4/15/2012,Not Specified,19,110.67,Regular Air,-43.75,5.99,4.92,Corporate,Office Supplies,ABC
+4/15/2012,Not Specified,20,1163.123,Regular Air,83.84,65.99,8.99,Corporate,Technology,ABC
+5/19/2010,High,48,224.58,Regular Air,-144.76,4.57,5.42,Corporate,Office Supplies,ABC
+5/19/2010,High,34,365.77,Regular Air,155.69,10.67,1.39,Corporate,Office Supplies,ABC
+5/19/2010,High,34,16073.03,Delivery Truck,5386.32,442.14,14.7,Corporate,Technology,ABC
+7/27/2009,Not Specified,15,30.68,Regular Air,-37.39,1.74,4.08,Small Business,Furniture,ABC
+3/31/2009,Not Specified,1,54.077,Express Air,-232.99,55.99,5,Corporate,Technology,ABC
+6/11/2012,Critical,27,899.97,Express Air,-246.3,33.98,19.99,Consumer,Furniture,ABC
+9/1/2010,Not Specified,0,6789.9275,Regular Air,1864.66,200.99,4.2,Consumer,Technology,ABC
+8/9/2012,Critical,5,748.29,Delivery Truck,-183.6,135.99,28.63,Corporate,Furniture,ABC
+5/7/2010,High,37,2522.21,Regular Air,1026.07,63.94,14.48,Home Office,Furniture,ABC
+8/25/2011,Medium,39,680.8585,Regular Air,319.1,20.99,0.99,Small Business,Technology,ABC
+NA,Critical,20,759.84,Regular Air,162.83,39.24,1.99,Home Office,Technology,ABC
+9/21/2010,Critical,19,147.39,Regular Air,-30.92,7.64,5.83,Home Office,Office Supplies,ABC
+6/30/2012,Low,5,294,Regular Air,181.53,54.74,14.83,Home Office,Furniture,ABC
+1/17/2011,Critical,34,216.3,Regular Air,103.16,6.3,0.5,Corporate,Office Supplies,ABC
+10/10/2010,Critical,12,31.6,Regular Air,-3.64,2.84,0.93,Corporate,Office Supplies,ABC
+6/9/2011,High,43,154.18,NA,-166.92,3.58,5.47,Corporate,Office Supplies,ABC
+6/9/2011,High,18,110.31,Regular Air,-1.22,5.85,2.27,Corporate,Office Supplies,ABC
+6/9/2011,High,41,137.51,Regular Air,21.62,3.29,1.35,Corporate,Office Supplies,ABC
+6/26/2012,Low,27,302.2,Regular Air,20.27,10.98,3.37,Corporate,Office Supplies,ABC
+3/16/2010,Medium,46,399.58,Regular Air,-188.53,8.45,7.77,Small Business,Office Supplies,ABC
+11/13/2010,Critical,8,52.39,Regular Air,-17.38,5.89,5.57,Corporate,Furniture,ABC
+11/14/2009,Medium,NA,61.09,Regular Air,24.06,4.91,0.5,Home Office,Office Supplies,ABC
+11/14/2009,Medium,48,777.76,Regular Air,63.46,15.94,5.45,Home Office,Office Supplies,ABC
+9/12/2011,High,4,108.87,Regular Air,-39.92,22.84,16.87,Home Office,Office Supplies,ABC
+11/23/2009,Medium,48,10051.52,Regular Air,4938.78,204.1,13.99,Small Business,Technology,ABC
+7/10/2010,Critical,1,97.13,Regular Air,-37.06,98.31,0.49,Corporate,Office Supplies,ABC
+3/6/2009,Medium,26,1523.5,Regular Air,-807.89,60.98,49,Home Office,Office Supplies,ABC
+2/17/2011,Low,5,756.15,Delivery Truck,-280.28,145.45,17.85,Small Business,Technology,ABC
+2/17/2011,Low,1,18.15,Regular Air,-7.26,12.28,6.13,Small Business,Office Supplies,ABC
+11/19/2011,High,12,1323.67,Express Air,630.28,107.53,5.81,Corporate,Furniture,ABC
+6/3/2011,Critical,17,47.44,Regular Air,14.49,2.89,0.5,Small Business,Office Supplies,ABC
+5/25/2010,High,2,51.21,Regular Air,-27.53,20.98,8.83,Corporate,Office Supplies,ABC
+5/25/2010,High,20,2195.55,Delivery Truck,-355.94,100.8,60,Corporate,NA,ABC
+5/30/2009,Not Specified,30,3482.41,Regular Air,1443.35,120.98,9.07,Home Office,Office Supplies,ABC
+12/9/2009,Not Specified,9,64.0305,Regular Air,NA,7.99,5.03,Consumer,Technology,ABC
+12/24/2010,High,2,291.66,Regular Air,-192.92,136.98,24.49,Home Office,Furniture,ABC
+5/17/2011,Low,5,503.3275,Regular Air,-488.31,125.99,5.63,Corporate,Technology,ABC
+1/11/2012,Not Specified,1,171.71,Delivery Truck,NA,115.99,56.14,Small Business,Technology,ABC
+10/3/2011,Not Specified,39,1326.04,Regular Air,-1129.96,32.48,35,Home Office,Office Supplies,ABC
+10/3/2011,Not Specified,22,3881.89,Regular Air,-803.52,182.55,69,Home Office,Furniture,ABC
+3/5/2010,Not Specified,1,17.89,Express Air,10.51,2.88,0.5,Corporate,Office Supplies,ABC
+3/5/2010,Not Specified,47,137.18,Regular Air,6.04,2.94,0.96,Corporate,Office Supplies,ABC
+11/5/2011,High,48,617.26,Regular Air,-37.52,12.28,NA,Small Business,Office Supplies,ABC
+11/5/2011,High,45,13104.992,Delivery Truck,5626.42,349.45,60,Small Business,Furniture,ABC
+1/5/2009,High,6,700.73,Delivery Truck,-188.58,120.97,26.3,Home Office,Technology,ABC
+11/25/2010,Medium,28,667.55,Regular Air,204.74,21.98,2.87,Consumer,Office Supplies,ABC
+4/8/2011,High,43,701.46,Express Air,-90.14,15.99,9.4,Small Business,Technology,ABC
+4/8/2011,High,19,53.94,Regular Air,-6.53,2.78,1.25,Small Business,Office Supplies,ABC
+4/8/2011,High,7,46.94,Regular Air,7.34,6.47,1.22,Small Business,Office Supplies,ABC
+4/8/2011,High,20,77.99,Regular Air,19.68,3.93,0.99,Small Business,Office Supplies,ABC
+3/31/2010,Critical,44,5735.79,Regular Air,828.27,136.98,24.49,Corporate,Furniture,ABC
+3/10/2012,Not Specified,47,186.93,Regular Air,56.44,4.13,0.99,Corporate,Office Supplies,ABC
+2/20/2009,Medium,41,241.1,Regular Air,-243.24,5.81,8.49,Small Business,Office Supplies,ABC
+2/20/2009,Medium,49,491.93,Regular Air,-53.62,9.65,6.22,Small Business,Furniture,ABC
+10/1/2009,Critical,10,623.71,Delivery Truck,-213.32,58.14,36.61,Small Business,Furniture,ABC
+11/1/2012,Not Specified,44,4263.9315,Regular Air,1411.03,110.99,2.5,Corporate,Technology,ABC
+7/21/2011,High,10,2700.41,Delivery Truck,258.01,279.81,23.19,Home Office,Office Supplies,ABC
+11/23/2010,Not Specified,20,1583.06,Regular Air,328,78.65,13.99,Corporate,Office Supplies,ABC
+2/6/2010,Not Specified,21,756.6,Regular Air,299.59,35.44,4.92,Small Business,Office Supplies,ABC
+1/4/2011,Medium,17,207.19,Regular Air,-85.91,11.66,8.99,Consumer,Office Supplies,ABC
+8/2/2009,Medium,31,196.74,Regular Air,-61.59,6.28,5.41,Small Business,Furniture,ABC
+6/5/2010,High,21,471.24,Regular Air,115.54,22.98,1.99,Home Office,Technology,ABC
+12/28/2010,High,14,2232.06,Regular Air,542.16,155.06,7.07,Consumer,Office Supplies,ABC
+10/10/2012,Critical,7,387.17,Regular Air,-204.65,55.94,6.55,Corporate,Technology,ABC
+4/2/2011,Critical,28,168.57,Express Air,16.65,5.28,2.99,Corporate,Office Supplies,ABC
+11/25/2009,Critical,50,413.86,NA,39.29,7.59,4,Small Business,Furniture,ABC
+11/25/2009,Critical,31,178.45,Regular Air,-104.96,5.98,4.69,Small Business,Office Supplies,ABC
+4/11/2012,Critical,1,2728.65,Delivery Truck,-5572.39,2550.14,29.7,Corporate,Technology,ABC
+2/16/2010,Low,13,735.54,Regular Air,171.82,55.48,14.3,Consumer,Office Supplies,ABC
+9/24/2010,High,47,1060.0605,Regular Air,-71.03,28.99,8.59,Corporate,Technology,ABC
+2/21/2009,Low,39,199.39,Express Air,101.13,4.91,0.5,Home Office,Office Supplies,ABC
+2/21/2009,Low,11,2770.35,Delivery Truck,-202.58,259.71,66.67,Home Office,Furniture,ABC
+11/11/2012,Critical,32,1882.12,Regular Air,584.15,59.78,10.29,Small Business,Office Supplies,ABC
+11/11/2012,Critical,44,186.94,Regular Air,85.81,4.13,0.5,Small Business,Office Supplies,ABC
+11/11/2012,Critical,12,407.2,Regular Air,-8.42,30.98,17.08,Small Business,Office Supplies,ABC
+10/27/2011,Critical,26,208.6,Regular Air,-56.45,7.38,5.21,Consumer,Furniture,ABC
+12/16/2009,Low,29,778.38,Regular Air,257.32,26.38,5.86,Small Business,Office Supplies,ABC
+5/7/2010,Critical,24,60.36,Regular Air,-119.62,2.16,6.05,Corporate,Office Supplies,ABC
+1/8/2011,Medium,36,1936.3,Regular Air,278.12,50.98,13.66,Corporate,Office Supplies,ABC
+7/9/2012,High,4,14.23,Regular Air,-4.43,2.08,5.33,Corporate,Furniture,ABC
+7/9/2012,High,NA,272.07,Regular Air,-206.46,6.48,9.54,Corporate,Office Supplies,ABC
+7/9/2012,High,5,325.43,Express Air,-76.11,64.98,6.88,Corporate,Office Supplies,ABC
+3/9/2009,High,NA,843.53,Regular Air,268.32,19.23,6.15,Home Office,Furniture,ABC
+12/30/2011,High,23,6641.14,Delivery Truck,673.77,300.98,64.73,Small Business,Furniture,ABC
+12/30/2011,High,21,10469.03,Delivery Truck,2608.72,500.98,26,Small Business,Furniture,ABC
+3/29/2009,Not Specified,18,215.93,Regular Air,-41.87,11.97,5.81,Small Business,Office Supplies,ABC
+2/13/2011,Critical,30,140.24,Regular Air,32.87,4.55,1.49,Small Business,Office Supplies,ABC
+1/28/2011,Not Specified,10,NA,Regular Air,19.2,28.48,1.99,Corporate,Technology,ABC
+1/28/2011,Not Specified,26,113.85,Regular Air,-93.93,4.14,6.6,Corporate,Furniture,ABC
+9/8/2012,Medium,7,83.81,Regular Air,21.92,12.53,0.5,Consumer,Office Supplies,ABC
+9/8/2012,Medium,36,218.81,Regular Air,7.45,5.85,2.27,Consumer,Office Supplies,ABC
+5/18/2009,Critical,42,9502.736,Delivery Truck,-945.56,280.98,81.98,Corporate,Furniture,ABC
+7/29/2012,Low,32,5686.25,Regular Air,2109.21,177.98,0.99,Corporate,Office Supplies,ABC
+7/29/2012,Low,16,797.24,Delivery Truck,11.46,50.98,14.19,Corporate,Furniture,ABC
+4/22/2012,Critical,20,963.3,Express Air,367.12,48.04,7.23,Small Business,Office Supplies,ABC
+7/16/2012,Not Specified,34,94.56,Regular Air,37.73,2.61,0.5,Small Business,Office Supplies,ABC
+9/22/2012,High,45,NA,Regular Air,-110.93,15.99,9.4,Consumer,Technology,ABC
+5/20/2010,Critical,36,283.21,Regular Air,-196.06,8.04,8.94,Corporate,Office Supplies,ABC
+5/20/2010,Critical,18,45.8,Regular Air,-52.92,2.23,4.57,Corporate,Furniture,ABC
+12/2/2009,High,42,557.85,Regular Air,89.45,12.95,4.98,Consumer,Office Supplies,ABC
+6/1/2010,Medium,37,4261.94,Delivery Truck,4.15,115.99,56.14,Consumer,Technology,ABC
+9/25/2010,Medium,38,2071.3395,Regular Air,324.93,65.99,8.99,Home Office,Technology,ABC
+11/19/2012,Medium,14,222.91,Regular Air,20.21,15.98,4,Corporate,Technology,ABC
+12/14/2010,Low,12,1634.98,Regular Air,-120.45,140.85,19.99,Small Business,Office Supplies,ABC
+10/25/2012,Low,50,204.11,Regular Air,28.71,4.28,0.94,Home Office,Office Supplies,ABC
+6/17/2010,High,18,1038.4,Regular Air,112.36,56.96,13.22,Corporate,Office Supplies,ABC
+6/17/2010,High,1,305.82,Regular Air,-232.24,NA,35,Corporate,Office Supplies,ABC
+6/29/2012,Low,64,7441.29,Regular Air,2665.4,165.98,19.99,NA,Office Supplies,ABC
+2/1/2009,Low,17,55.45,Regular Air,21.42,3.08,0.5,Corporate,Office Supplies,ABC
+8/25/2011,Critical,37,4896.93,Express Air,1467.82,128.24,12.65,Home Office,Furniture,ABC
+6/20/2009,Low,42,433.68,Regular Air,44.1,10.98,4.8,Corporate,Office Supplies,ABC
+5/3/2010,Critical,24,NA,Regular Air,191.29,29.89,1.99,Home Office,Technology,ABC
+4/7/2009,Low,36,1423.35,Regular Air,-580.32,40.48,19.99,Corporate,Technology,ABC
+9/2/2011,Loww,30,932.892,Regular Air,458.98,35.99,0.99,Consumer,Technology,ABC
+4/14/2011,Medium,36,5977.63,Delivery Truck,-86.68,180.98,55.24,Consumer,Office Supplies,ABC
+2/13/2011,Not Specified,6,906.02,Delivery Truck,-382.38,150.98,66.27,Small Business,Furniture,ABC
+2/13/2011,Not Specified,43,170.88,Regular Air,-149.09,3.81,5.44,Small Business,Office Supplies,ABC
+7/30/2011,Medium,40,434.62,Regular Air,-68.98,11.5,7.19,Corporate,Office Supplies,ABC
+8/10/2010,Medium,38,871.25,Regular Air,-14.31,22.99,8.99,Corporate,Office Supplies,ABC
+8/10/2010,Medium,46,537.87,Regular Air,-162.24,11.66,7.95,Corporate,Office Supplies,ABC
+4/6/2009,High,55,608.21,Regular Air,-175.13,12.88,4.59,Consumer,Office Supplies,ABC
+10/26/2010,High,17,285.84,Regular Air,-27.26,15.28,10.91,Home Office,Office Supplies,ABC
+10/26/2010,High,66,12450.48,Delivery Truck,3030.16,300.98,54.92,Home Office,Furniture,ABC
+5/26/2012,Low,39,2083.0525,Express Air,354.96,65.99,5.99,Home Office,Technology,ABC
+5/26/2012,Low,76,233.28,Regular Air,112.35,NA,0.5,Home Office,Office Supplies,ABC
+9/10/2012,Low,32,3245.73,Regular Air,569.57,110.98,13.99,Corporate,Furniture,ABC
+9/10/2012,Low,27,63.02,Regular Air,-119.66,NA,5,Corporate,Office Supplies,ABC
+NA,Low,9,6420.87,Regular Air,-690.21,699.99,24.49,Corporate,Technology,ABC
+9/10/2012,Low,25,2407.693,Regular Air,424.14,110.99,8.99,Corporate,Technology,ABC
+3/16/2011,Low,72,109.49,Regular Air,26.09,3.38,0.85,Corporate,Office Supplies,ABC
+6/18/2011,High,31,283.17,Regular Air,119.64,8.74,1.39,Home Office,Office Supplies,ABC
+1/11/2011,Low,6,17,Regular Air,-4.61,2.78,1.49,Corporate,Office Supplies,ABC
+1/11/2011,Low,15,67.41,Regular Air,-49.6,4.14,6.6,Corporate,Furniture,ABC
+1/11/2011,Low,19,130.67,Regular Air,-77.18,6.48,7.86,Corporate,Office Supplies,ABC
+1/11/2011,Low,21,77.62,Regular Air,-50.88,3.28,3.97,Corporate,Office Supplies,ABC
+3/5/2009,Not Specified,45,440.39,Regular Air,186.64,9.78,1.39,Corporate,Office Supplies,ABC
+3/5/2009,Not Specified,27,96.99,Express Air,-66.35,3.28,3.97,Corporate,Office Supplies,ABC
+12/14/2009,Low,59,590.43,Regular Air,82.59,12.95,4.98,Consumer,Office Supplies,ABC
+12/14/2009,Low,8,216.33,Regular Air,-17.37,24.92,12.98,Consumer,Office Supplies,ABC
+2/2/2009,Not Specified,38,3152.75,NA,1166.4,83.1,6.13,Corporate,Technology,ABC
+2/2/2009,Not Specified,42,3609.88,NA,-1396.22,90.98,56.2,Corporate,Furniture,ABC
+8/26/2009,Low,26,188.05,Express Air,-21.41,6.48,5.16,Corporate,Office Supplies,ABC
+3/6/2012,Low,42,1681.6,Regular Air,167.37,39.99,10.25,Corporate,Technology,ABC
+11/19/2009,High,17,5203.9,Delivery Truck,636.2,300.98,64.73,Corporate,Furniture,ABC
+11/19/2009,High,33,744.12,Delivery Truck,-1163.21,20.98,45,Corporate,Office Supplies,ABC
+7/24/2010,Low,48,293.3,Express Air,-193.48,5.98,7.5,Corporate,Office Supplies,ABC
+8/4/2010,Medium,14,782.4505,Regular Air,-11.4,65.99,3.99,Consumer,Technology,ABC
+3/7/2011,Medium,44,226.18,Regular Air,-115.54,4.82,5.72,Corporate,Furniture,ABC
+10/20/2011,Not Specified,17,1856.9695,Regular Air,176.87,125.99,8.08,Small Business,Technology,ABC
+8/4/2009,Not Specified,43,241.19,Regular Air,-103.65,5.78,5.67,Consumer,Office Supplies,ABC
+4/28/2010,Low,30,4177.52,Delivery Truck,-443.78,140.98,36.09,Corporate,Furniture,ABC
+4/28/2010,Loww,26,3351.08,Delivery Truck,-1086.43,122.99,70.2,Corporate,Furniture,ABC
+4/22/2009,Low,29,159.11,Regular Air,64.01,5.43,0.95,Consumer,Office Supplies,ABC
+12/4/2011,High,44,1127.81,Regular Air,425.08,28.48,1.99,Corporate,Technology,ABC
+8/6/2010,Not Specified,27,9293.82,Regular Air,2437.17,363.25,19.99,Small Business,Office Supplies,ABC
+8/6/2010,Not Specified,27,80.79,Regular Air,12.58,2.88,0.7,Small Business,Office Supplies,ABC
+9/15/2011,Low,18,925.03,Regular Air,-3.68,49.99,19.99,Corporate,Technology,ABC
+10/2/2009,Not Specified,27,566.12,Regular Air,-19.33,19.99,11.17,Corporate,Furniture,ABC
+3/1/2009,Critical,8,327.61,Regular Air,54.9,40.98,7.47,Corporate,Office Supplies,ABC
+6/24/2009,Not Specified,16,178.4,Regular Air,20.08,10.64,5.16,Corporate,Furniture,ABC
+6/24/2009,Not Specified,40,115.01,Express Air,NA,2.78,1.34,Corporate,Office Supplies,ABC
+1/16/2011,Medium,29,181.83,Regular Air,-43.36,5.98,5.2,Small Business,Office Supplies,ABC
+1/20/2012,Low,38,952.47,Regular Air,270.69,23.99,6.3,Corporate,Technology,ABC
+1/20/2012,Low,3,171.9635,Regular Air,-296.37,65.99,8.99,Corporate,Technology,ABC
+3/15/2012,Not Specified,3,317.95,Delivery Truck,-144.43,100.98,26.22,Consumer,Furniture,ABC
+3/15/2012,Not Specified,8,435.29,Regular Air,122.41,51.65,18.45,Consumer,Furniture,ABC
+8/7/2011,Medium,34,937.04,Regular Air,391.6,28.53,1.49,Corporate,Office Supplies,ABC
+8/7/2011,Medium,17,1616.64,Regular Air,26.94,99.99,19.99,Corporate,Technology,ABC
+5/21/2011,High,18,404.3,Regular Air,-27.34,21.38,8.99,Corporate,Office Supplies,ABC
+5/21/2011,High,43,11674.968,Delivery Truck,715.18,348.21,84.84,Corporate,Furniture,ABC
+10/11/2010,High,24,1482.81,Regular Air,-678.63,60.98,49,Corporate,Office Supplies,ABC
+10/11/2010,High,23,6693.28,Regular Air,40.32,290.98,69,Corporate,Furniture,ABC
+12/22/2010,Not Specified,10,309.3,Express Air,-77.89,30.98,6.5,Corporate,Technology,ABC
+7/3/2009,Low,1,444.52,Regular Air,161.13,10.06,2.06,Consumer,Office Supplies,ABC
+5/27/2009,Critical,1,742.21,Regular Air,122.21,14.2,5.3,Corporate,Furniture,ABC
+6/20/2011,High,NA,896.1805,Express Air,82.04,65.99,5.26,Corporate,Technology,ABC
+8/22/2012,High,19,120.56,Regular Air,-79.35,5.98,7.5,NA,Office Supplies,ABC
+8/22/2012,High,46,2640.6865,Express Air,751.38,65.99,5.92,Corporate,Technology,ABC
+1/26/2011,Critical,15,8662.34,Delivery Truck,-704.66,549.99,49,Corporate,Technology,ABC
+12/3/2012,Critical,24,1689.97,Delivery Truck,-564.74,68.81,60,Corporate,Office Supplies,ABC
+9/6/2010,Not Specified,20,112.03,Regular Air,-57.99,5.18,5.74,Small Business,Office Supplies,ABC
+3/29/2011,Low,6,2528.49,Express Air,580.15,420.98,19.99,Corporate,Office Supplies,ABC
+8/20/2010,High,16,102.5,Regular Air,13.84,6.68,1.5,Home Office,Office Supplies,ABC
+12/2/2010,Low,36,7783.36,NA,3506.24,225.04,11.79,Consumer,Office Supplies,ABC
+12/2/2010,Low,21,61.76,NA,4.34,2.84,0.93,Consumer,Office Supplies,ABC
+12/2/2010,Low,36,1280.34,Delivery Truck,-1048.25,31.76,45.51,Consumer,Furniture,ABC
+3/26/2011,Critical,12,76.61,Regular Air,-31.83,6.28,5.29,Corporate,Furniture,ABC
+12/19/2009,Critical,38,1483.44,Regular Air,439.77,39.48,1.99,Consumer,Technology,ABC
+12/19/2009,Critical,39,145.68,Regular Air,12,3.7,NA,Consumer,Furniture,ABC
+4/29/2011,Low,45,500.48,Regular Air,-48.2,11.29,5.03,Home Office,Office Supplies,ABC
+10/24/2010,High,50,8221.2935,Regular Air,2342.21,195.99,4.2,Corporate,Technology,ABC
+10/24/2010,High,7,1158.26,Regular Air,170.08,172.99,19.99,Corporate,Office Supplies,ABC
+5/12/2010,High,9,298.52,Regular Air,73.19,30.98,5.76,Corporate,Office Supplies,ABC
+5/12/2010,High,34,667.35,Regular Air,80.92,19.98,8.68,Corporate,Office Supplies,ABC
+4/11/2010,Medium,31,3206.965,Regular Air,575.33,125.99,7.69,Corporate,Technology,ABC
+1/24/2009,Low,30,6654.39,Regular Air,1151.69,238.4,24.49,Small Business,Furniture,ABC
+1/24/2009,Low,21,4429.69,Express Air,983.55,199.99,24.49,Small Business,Technology,ABC
+11/17/2010,High,42,239.35,Regular Air,78.96,5.68,1.39,Small Business,Office Supplies,ABC
+8/3/2010,Critical,15,22.45,Regular Air,0.78,1.48,0.7,Home Office,Office Supplies,ABC
+6/13/2011,Medium,44,7765.13,Delivery Truck,433.63,180.98,55.24,Home Office,Office Supplies,ABC
+5/5/2010,Critical,44,2435.32,Regular Air,650.56,60.22,3.5,Corporate,Office Supplies,ABC
+5/5/2010,Critical,21,4242.76,Regular Air,340.88,199.99,24.49,Corporate,Technology,ABC
+8/30/2010,High,1,14.4,Regular Air,-7.39,12.22,2.85,Corporate,Furniture,ABC
+10/30/2012,High,16,92.06,Regular Air,5.66,5.98,2.5,Consumer,Office Supplies,ABC
+10/30/2012,High,33,199.62,Regular Air,42.34,5.84,1.2,Consumer,Office Supplies,ABC
+7/15/2009,NA,40,196.5,Regular Air,-99.76,4.91,4.97,Corporate,Office Supplies,ABC
+7/15/2009,High,1,3672.89,Regular Air,-3061.82,3499.99,24.49,Corporate,Technology,ABC
+7/15/2009,High,8,46.97,Regular Air,-0.01,5.84,1.2,NA,Office Supplies,ABC
+8/7/2012,Low,3,20333.816,Delivery Truck,-1430.45,550.98,147.12,Small Business,Furniture,ABC
+2/1/2009,Critical,37,1697.44,Regular Air,523.43,45.19,1.99,Corporate,Technology,ABC
+7/7/2012,Medium,15,572.4325,Regular Air,-19.44,45.99,4.99,Corporate,Technology,ABC
+3/27/2009,NA,41,322.03,Regular Air,-82.83,8.12,2.83,Corporate,Technology,ABC
+3/27/2009,Medium,2,15.26,Regular Air,-7.51,6.68,1.5,Corporate,NA,ABC
+3/27/2009,Medium,39,5250.6625,Regular Air,930.99,175.99,8.99,Corporate,Technology,ABC
+9/23/2010,Not Specified,23,10791.38,Regular Air,-234.79,499.99,24.49,Corporate,Technology,ABC
+3/28/2011,Low,1,26.68,Regular Air,-10.74,22.23,3.63,Corporate,Furniture,ABC
+12/11/2010,High,28,588.54,Regular Air,-30.72,20.15,8.99,Consumer,Office Supplies,ABC
+9/16/2009,High,44,284.38,Regular Air,-62.43,6.48,5.19,Home Office,NA,ABC
+2/4/2011,High,49,165.51,Regular Air,-269.91,3.52,6.83,Consumer,Office Supplies,ABC
+9/11/2010,Medium,29,2046.81,Regular Air,469.28,67.28,19.99,Small Business,Office Supplies,ABC
+3/2/2010,Medium,10,28.81,Regular Air,7.15,2.89,0.49,Corporate,Office Supplies,ABC
+3/2/2010,Medium,35,1445.6,Regular Air,126.03,41.32,8.66,Corporate,Furniture,ABC
+3/2/2010,Medium,4,119.03,Regular Air,29.62,8.95,2.01,NA,Office Supplies,ABC
+9/15/2009,Critical,2,34.88,Regular Air,-22.12,13.79,8.78,Consumer,Furniture,ABC
+12/30/2010,Medium,25,165.36,Express Air,-94.79,6.48,7.49,Small Business,Office Supplies,ABC
+7/25/2011,Medium,9,883.37,Regular Air,51.3,100.98,7.18,Home Office,Technology,ABC
+12/23/2009,Low,38,23255.61,Regular Air,-734.33,599.99,24.49,Corporate,Technology,ABC
+10/31/2012,High,8,23.19,Regular Air,-13.27,2.6,2.4,Corporate,Office Supplies,ABC
+12/22/2009,Critical,31,639.19,Regular Air,274.9,20.98,1.49,Corporate,Office Supplies,ABC
+4/14/2012,High,4,62.45,Regular Air,-141.76,3.48,49,Corporate,Office Supplies,ABC
+5/13/2011,Medium,42,152.55,Regular Air,-20.27,3.69,2.5,Corporate,Office Supplies,ABC
+5/13/2011,Medium,36,152.96,Regular Air,-123.87,4.28,5.74,Corporate,Office Supplies,ABC
+12/7/2011,Critical,19,7608.88,Express Air,3049.45,420.98,19.99,Home Office,Office Supplies,ABC
+12/7/2011,Critical,50,1270.03,Regular Air,221.81,26.48,6.93,Home Office,Furniture,ABC
+12/4/2010,Not Specified,18,101.34,Regular Air,26.11,5.68,1.39,Corporate,Office Supplies,ABC
+11/24/2009,High,26,393.59,Regular Air,-8.08,15.01,8.4,Small Business,Office Supplies,ABC
+11/24/2009,High,14,551.18,Regular Air,-326.97,40.48,19.99,Small Business,Technology,ABC
+11/24/2009,High,1,18.73,Regular Air,-6.68,12.28,6.13,Small Business,Office Supplies,ABC
+9/13/2011,Not Specified,32,294.04,Regular Air,-5.53,8.85,5.6,Corporate,Office Supplies,ABC
+9/13/2011,Not Specified,-2,2022.65,Delivery Truck,-157.63,110.98,30,Corporate,Furniture,ABC
+12/18/2011,Low,36,NA,Delivery Truck,133.3,50.98,14.19,Corporate,Furniture,ABC
+12/18/2011,Low,35,543.22,Regular Air,68.44,14.58,7.4,Corporate,Furniture,ABC
+12/18/2011,Low,0,813.9,Regular Air,256.66,45.98,4.8,Corporate,Furniture,ABC
+8/9/2012,Low,44,865.27,Regular Air,11.55,19.98,4,Home Office,Technology,ABC
+8/9/2012,Low,41,429.28,Regular Air,-168.95,10.97,6.5,Home Office,Technology,ABC
+8/24/2010,Critical,31,341.71,Regular Air,32.19,10.98,5.14,Corporate,Office Supplies,ABC
+5/22/2011,High,46,648.26,Regular Air,30.48,14.27,7.27,Corporate,Office Supplies,ABC
+5/22/2011,High,46,410.43,Regular Air,-54.58,9.49,5.76,Corporate,Technology,ABC
+11/18/2012,Critical,43,9750.55,Delivery Truck,1061.61,216.6,64.2,Small Business,Furniture,ABC
+6/28/2012,High,39,835.55,Regular Air,326.43,22.23,5.08,Consumer,Furniture,ABC
+6/28/2012,High,90,1799.6115,Regular Air,557.6,55.99,1.25,Consumer,Technology,ABC
+2/4/2009,Low,20,173.09,Regular Air,-6.71,8.34,4.82,Corporate,Office Supplies,ABC
+12/25/2009,Not Specified,89,5016.25,Delivery Truck,-189.35,124.49,51.94,Small Business,Furniture,ABC
+9/26/2011,High,47,945.03,Regular Air,267.64,19.98,5.97,Corporate,Office Supplies,ABC
+9/22/2011,Medium,84,325.75,Regular Air,-124.25,8.75,8.54,Corporate,Furniture,ABC
+9/22/2011,Medium,83,136.42,Regular Air,-8.38,5.85,2.27,Corporate,Office Supplies,ABC
